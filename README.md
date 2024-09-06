@@ -8,23 +8,23 @@ Current Scripts
  
 º Nullbinds aka Autostrafer 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 Key Notes
 
-💢 = marked scripts are not working anymore because Valve disabled/blocked that kind of automations and it´s impossible to predict if it is forever or not, we´ll see
+💢 = marked scripts are not working anymore because Valve disabled/blocked that kind of automations 
+and it´s impossible to predict if this changes are final and forever or not, we´ll see
