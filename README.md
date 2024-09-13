@@ -6,7 +6,7 @@ Some "Scripts" that only using game commands and aliases (i.e. scripts like 💢
 
 Current Scripts
  
-º Nullbinds aka Autostrafer 
+º Nullbinds
 
 .
 .
